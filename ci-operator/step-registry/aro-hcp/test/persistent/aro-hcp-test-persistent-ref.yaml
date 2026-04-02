@@ -38,5 +38,6 @@ ref:
     - name: COMPRESS_TIMING_METADATA
       default: "true"
       documentation: Whether to compress timing metadata files with gzip.
+  timeout: 3h0m0s
   documentation: |-
     Run the Azure/ARO-HCP/aro-hcp-tests binary.
